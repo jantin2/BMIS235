@@ -1,0 +1,39 @@
+/* These styles are approved for the site*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #000000;
+    background-color: rgb(205, 199, 191);
+}
+
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+a {
+    color: rgb(8, 7, 7);
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.teamlistheader {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.underline {text-decoration: underline; font-weight: normal;}
+.bold {font-weight:bold}
+.justify {text-align: justify;}
+
+.homebg {
+    background-image: url('images/library.webp');
+    background-position: top center;
+    background-repeat: repeat; /*Chrome version*/
+}
+
+
